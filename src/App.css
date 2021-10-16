@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#navbar {
+  background-color: #1177e4 !important;
+  color: white;
+}
+
+.main {
+  display: flex;
+}
